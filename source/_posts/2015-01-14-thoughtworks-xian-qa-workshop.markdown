@@ -3,7 +3,7 @@ layout: post
 title: "ThoughtWorks-Xi'an-QA-Workshop"
 date: 2015-01-14 19:08:05 +0800
 comments: true
-categories: QA, Workshop, BDD, UI Automation, Cucumber, Capybara, PageObjects
+categories:
 ---
 谷歌2013I/O大会上，Larry Page(拉里-佩奇)说道:
 >Technology should do the hard work so that people can get on with the things that make them the happiest in life
@@ -34,7 +34,7 @@ categories: QA, Workshop, BDD, UI Automation, Cucumber, Capybara, PageObjects
 
 或扫描二维码：
 
-![Image of workshop-qrcode](images/workshop-qrcode.png)
+![Image of workshop-qrcode](/images/workshop-qrcode.png)
 
 如果你不知道技术雷达是什么，请看这里[http://www.thoughtworks.com/cn/radar](http://www.thoughtworks.com/cn/radar)
 
