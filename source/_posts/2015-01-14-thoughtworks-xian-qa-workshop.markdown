@@ -33,7 +33,8 @@ categories: QA, Workshop, BDD, UI Automation, Cucumber, Capybara, PageObjects
 报名链接[https://www.jinshuju.net/f/BSGi4B](https://www.jinshuju.net/f/BSGi4B)
 
 或扫描二维码：
-![Image of workshop-qrcode](https://github.com/ThoughtWorks-China-QA/thoughtworks-china-qa.github.io/tree/source/source/images/worksho-qrcode.png)
+
+![Image of workshop-qrcode](images/workshop-qrcode.png)
 
 如果你不知道技术雷达是什么，请看这里[http://www.thoughtworks.com/cn/radar](http://www.thoughtworks.com/cn/radar)
 
